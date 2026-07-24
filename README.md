@@ -23,31 +23,6 @@ Hexcore/
 └── workflows/   # How the AI executes tasks
 ```
 
-## Why Hexcore?
-
-Traditional prompts mix knowledge, reasoning, formatting, and execution into one large instruction.
-
-Hexcore separates these concerns into reusable modules, making AI interactions more:
-
-- Modular
-- Maintainable
-- Reusable
-- Explainable
-- Consistent
-- Scalable
-- AI-agnostic
-
-## Example
-
-Instead of writing one massive prompt, you can compose behavior like this:
-
-- **Skill:** Backend
-- **Method:** First Principles + Council
-- **Style:** Technical Documentation
-- **Workflow:** Code Review
-
-Each module contributes a single responsibility, resulting in clearer, more reliable outputs.
-
 ## Vision
 
 Hexcore aims to become a universal library of AI capabilities—a second brain that can be plugged into any language model to enhance its reasoning, expertise, communication, and execution.
