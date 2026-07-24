@@ -1,8 +1,8 @@
-# Hexcore
+
 
 > A modular, AI-agnostic knowledge base that teaches any AI **what to know, how to think, how to communicate, and how to work.**
 
-Hexcore is a collection of reusable, composable modules designed to improve AI-assisted development and problem solving. Instead of being tied to a specific model or platform, Hexcore organizes knowledge and behavior into independent building blocks that can be used with ChatGPT, Claude, Gemini, Qwen, DeepSeek, local LLMs, and future AI systems.
+![Hexcore Banner](https://cdn.phototourl.com/free/2026-07-24-52e7045f-b61a-4506-b547-bcd4a640f6c5.jpg)
 
 ## Philosophy
 
